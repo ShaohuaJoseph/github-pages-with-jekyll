@@ -1,6 +1,7 @@
 title: My blog
 author: Joseph
 email: jiangshaohua.j@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Just another day of lightweight self-improvement. Hope I can gain power and knowledge as time goes by.
 
@@ -9,4 +10,4 @@ twitter_username: not often used # DO NOT include the @ character, or else the b
 github_username:  Joseph Jiang # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+
